@@ -12,7 +12,7 @@ description: "个人金融技术分享、记录、成长"
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/Tingguo/Tingguo.github.io/blob/afee4152e0620f166ced4f39f555b471fedb3afb/images/logo.png
+avatar: https://raw.githubusercontent.com/Tingguo/Tingguo.github.io/master/images/logo.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
 
@@ -39,8 +39,8 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: lemonchann@foxmail.com
+  zhihu: 
+  email: nalanwutuo@gmail.com
   facebook:
   flickr:
   github: Tingguo 
